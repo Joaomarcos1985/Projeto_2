@@ -1,5 +1,5 @@
 # Projeto_2_Portifolio
-Projeto portfólio HTML + CSS + BOOSTRAP + GITHUB (PAGES)
+Projeto portfólio HTML + CSS + BOOSTRAP + GITHUB (PAGES).
 https://joaomarcos1985.github.io/Projeto_2_Portifolio/
 
 
